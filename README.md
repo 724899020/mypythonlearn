@@ -1,4 +1,4 @@
 mypythonlearn
 =============
 
-pyscript
+the directory is my home
