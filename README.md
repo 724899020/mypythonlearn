@@ -1,4 +1,4 @@
-mypythonlearn
+script
 =============
 
-the directory is my home
+There is my script progruam learn home.
